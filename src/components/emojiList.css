@@ -1,0 +1,7 @@
+.Column {
+  display: table;
+  width: 20%; /*Optional*/
+  border-spacing: 10px; /*Optional*/
+  float: left;
+  text-align: left;
+}
